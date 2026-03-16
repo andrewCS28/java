@@ -1,0 +1,1 @@
+This lab focuses on implementing an immutable WordStats class in Java to manage word frequencies using a lexicographically-ordered TreeMap. It emphasizes object-oriented principles like data representation, custom equality logic, and safely merging instances without mutation, while strictly adhering to Java's fundamental class design and collection constraints.
